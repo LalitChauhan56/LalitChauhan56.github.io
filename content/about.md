@@ -6,7 +6,8 @@ no_header = true
 
 Hi there! I am Lalit Chauhan.
 
-I'm a final year undergrad engineer from India studying Computer Science and actively contributing to the open source.
+I'm a final-year engineering student majoring in Computer Science, and I'm enthusiastic about actively contributing to open source projects.
+
 
 With extensive experience as a penetration tester and a strong passion for web development, I am dedicated to enhancing the user-friendliness and visual appeal of applications. My proficiency in Julia adds a versatile dimension to my skill set, allowing me to approach challenges from a unique perspective.
 
