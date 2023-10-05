@@ -1,0 +1,48 @@
+baseURL = "http://LalitChauhan56.github.io/"
+defaultContentLanguage = "en"
+languageCode = "en"
+
+title = "Lalit Chauhan"
+
+theme = "gokarna"
+publishDir = "docs"
+enableEmoji = true
+enableRobotsTXT = true
+
+[params]
+  description = "Hey! I'm Lalit, I'm an experienced penetration tester and a web development enthusiast."
+          avatarURL = "/Lalit-Chauhan.jpeg"
+  footer = "Lalit Chauhan"
+  socialIcons = [
+      {name = "github", url = "https://github.com/LalitChauhan56"},
+      {name = "twitter", url = "https://twitter.com/Lalit_Chauhan56"},
+      {name = "linkedin", url = "https://www.linkedin.com/in/lalit-chauhan-494277187/"},
+  ]
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "About"
+    url = "/about"
+    weight = 2
+
+  [[menu.main]]
+    name = "Resume"
+    url = "https://drive.google.com/file/d/16CqL9T2SVjHduRyzBm_KFsxZQrM2UdXV/view?usp=drive_link"
+    weight = 3
+
+  [[menu.main]]
+    identifier = "github"
+    pre = "<span data-feather='github'></span>"
+    url = "https://github.com/LalitChauhan56"
+    weight = 4
+
+  [[menu.main]]
+    identifier = "rss"
+    pre = "<span data-feather='rss'></span>"
+    url = "/index.xml"
+    weight = 5
